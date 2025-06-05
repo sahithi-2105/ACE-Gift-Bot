@@ -219,7 +219,7 @@ const Chat = () => {
                     alignItems={"center"}
                     justifyContent={"center"}
                   >
-                    How can I assist you in finding a gift?{" "}
+                    How can I assist you in finding a book?{" "}
                   </Typography>
                 ) : (
                   messages.map((msg, index) => (
